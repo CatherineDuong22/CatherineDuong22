@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on finishing my last semester as a Statistics student at TAMU!
 - 🧚‍♀️ I have experiences interning @ LinkedIn, IBM, and Nissan
 - 👀 Looking for opportunities in Data Science for New Grad
-- 📫 How to reach me: chauduong@tamu.edu
+- 📫 How to reach me: catherineduong22@gmail.com

@@ -1,4 +1,4 @@
-### Hi there, I'm Catherine 💓
+### Hi there, I'm Catherine (Châu) 💓
 
 <!--
 **CatherineDuong22/CatherineDuong22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
